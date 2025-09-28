@@ -17,13 +17,13 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EMAIL AND MOBILE NUMBER02</label>
+          <label>EMAIL AND MOBILE NUMBER-02</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WELCOME TO NETFLIX V-6.0</button>
+        <button type="submit"> WELCOME TO NETFLIX V-6.0</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
@@ -34,7 +34,7 @@
       </form>
       <p>New to Netflix? <a href="#">Lets join up now</a></p>
       <small>
-        This page is protected by Google Re-CAPTCHA to ensure you're not a bot.
+        This page is protected by Google Re-CAPTCHAA to ensure you're not a bot.
         <a href="#">Learn more.</a>
       </small>
     </div>
