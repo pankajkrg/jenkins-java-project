@@ -27,7 +27,7 @@
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
-            <label for="Remember-always">Remember me</label>
+            <label for="Remember-alwayss">Remember me</label>
           </div>
           <a href="#">Need Help?</a>
         </div>
